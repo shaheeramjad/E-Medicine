@@ -1,0 +1,1 @@
+D:\Data\dotNet\EMedicine\EMedicine\emedicine.client\obj\Debug\emedicine.client.esproj.CoreCompileInputs.cache
